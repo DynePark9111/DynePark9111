@@ -8,8 +8,12 @@
 
 <h2>Working on</h2>
 
-- Mise(Particulate Matter) observation Web App
-- Webtoons Combined Web App
+- Homepage. [Github](https://github.com/DynePark9111/homepage). [Website](https://www.dynedyne.com/)
+- Poker. [Github](https://github.com/DynePark9111/poker). [Website](https://game.dynedyne.com/)
+
+<h2>Job Experience</h2>
+
+- BE developer at [AnypointMedia](https://www.anypointmedia.com/en/index.php) (3 months)
 
 <h2>Tech Stack</h2>
 
